@@ -1,0 +1,6 @@
+.Rhistory
+tmp_data_for_today
+logs
+*.dcf
+*.csv
+*.RData

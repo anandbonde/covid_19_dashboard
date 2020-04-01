@@ -1,0 +1,4 @@
+
+# Runs the update.sh script every 1 hr.
+
+0 */1 * * * ~/git/covid_19_dashboard/src/scripts/cron/update.sh
