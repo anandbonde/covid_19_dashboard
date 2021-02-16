@@ -5,6 +5,6 @@ Live demo: https://curiotiveme.shinyapps.io/covid_19_status
 
 ![image](https://user-images.githubusercontent.com/420175/108132209-b5e07900-706f-11eb-97bd-d3012e402d72.png)
 
-<h4><u><i>Image showing rise of cases in the last day.</i></u></h4>
+<h4><u><i>The map below shows rise of cases in the last day.</i></u></h4>
 
 ![image](https://user-images.githubusercontent.com/420175/108132642-6fd7e500-7070-11eb-8cde-32e259c96c52.png)
